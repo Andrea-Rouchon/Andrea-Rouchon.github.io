@@ -43,7 +43,7 @@ interests:
   - Investment
 
 education:
-  - area: PPhD - Economics
+  - area: PhD - Economics
     institution: Université Gustave Eiffel
     icon: ""
     date_start: 2025-09-01
@@ -69,19 +69,19 @@ education:
     summary: ""
 
 work:
-  - position: Research Intern
-    company_name: Érudite
-    company_url: 'https://erudite.univ-paris-est.fr/'
-    icon: ''
-    date_start: 2020-01-01
-    date_end: ''
-    summary: ""
   - position: Teaching Assistant
     company_name: Université Gustave Eiffel
     company_url: 'https://www.univ-gustave-eiffel.fr/'
     icon: ''
     date_start: 2025-09-01
     date_end: 2026-05-31
+    summary: ""
+  - position: Research Intern
+    company_name: Érudite
+    company_url: 'https://erudite.univ-paris-est.fr/'
+    icon: ''
+    date_start: 2024-03-01
+    date_end: 2025-03-01
     summary: ""
   - position: Teaching Assistant
     company_name: Université Paris 1 Panthéon-Sorbonne
@@ -127,6 +127,8 @@ skills:
 
 languages:
   - name: English
+    percent: 100
+  - name: French
     percent: 100
   - name: Spanish
     percent: 50
