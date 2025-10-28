@@ -19,7 +19,8 @@ sections:
         text: Curriculum Vitae
         url: uploads/CV_2025_06_vfrançaise.pdf
       headings:
-        about: ''
+        about: 'About me!'
+        education: ''
         interests: 'Research interests'
     design:
       # Apply a gradient background
