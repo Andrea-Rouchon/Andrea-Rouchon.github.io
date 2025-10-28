@@ -19,8 +19,8 @@ sections:
         text: Curriculum Vitae
         url: uploads/CV_2025_06_vfrançaise.pdf
       headings:
-        about: 'About me!'
-        education: ''
+        about: 'Welcome to my personal website!'
+        education: 'Education background'
         interests: 'Research interests'
     design:
       # Apply a gradient background
@@ -39,7 +39,7 @@ sections:
       is_education_first: true
   - block: resume-skills
     content:
-      title: Technical Skills
+      title: ''
       username: admin
     design:
       show_skill_percentage: true

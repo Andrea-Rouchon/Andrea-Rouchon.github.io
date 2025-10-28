@@ -110,12 +110,15 @@ skills:
         icon: cloud
 
 languages:
-  - name: English
-    percent: 100
-  - name: French
-    percent: 100
-  - name: Spanish
-    percent: 50
+  - language: English
+    fluency: C2
+    color: "#2563eb"
+  - language: Français
+    fluency: Natif
+    color: "#059669"
+  - language: Español
+    fluency: B2
+    color: "#d97706"
 
 # Awards.
 #   Add/remove as many awards below as you like.
