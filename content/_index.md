@@ -16,7 +16,7 @@ sections:
       text: ''
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: CV
+        text: Download CV
         url: uploads/CV_2025_06_vfrançaise.pdf
       headings:
         about: ''
@@ -36,7 +36,7 @@ sections:
       # Hugo date format
       date_format: 'January 2006'
       # Education or Experience section first?
-      is_education_first: false
+      is_education_first: true
   - block: collection
     id: papers
     content:
