@@ -16,8 +16,8 @@ sections:
       text: ''
       # Show a call-to-action button under your biography? (optional)
       button:
-        text: Download CV
-        url: uploads/resume.pdf
+        text: CV
+        url: uploads/CV_2025_06_vfrançaise.pdf
       headings:
         about: ''
         education: ''
@@ -40,16 +40,6 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ''
-      filters:
-        folders:
-          - publications
-        exclude_featured: false
-    design:
-      view: citation
   - block: collection
     id: talks
     content:
