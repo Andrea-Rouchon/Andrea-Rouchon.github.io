@@ -1,20 +1,10 @@
 ---
 # Display name
-title: Alex Johnson
-
-# Name pronunciation (optional)
-name_pronunciation: ''
+title: Andrea Rouchon
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
-
-# Pronouns (optional)
-pronouns: he/him
-
-# Status emoji
-status:
-  icon: 🚀
+first_name: Andrea
+last_name: Rouchon
 
 # Is this the primary user of the site?
 superuser: true
@@ -23,7 +13,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: PhD Candidate in Economics
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
