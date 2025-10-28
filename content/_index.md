@@ -13,14 +13,13 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: 'Welcome to my research page!'
+      text: ''
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download my CV
         url: uploads/CV_2025_06_vfrançaise.pdf
       headings:
         about: ''
-        education: ''
         interests: 'Research interests'
     design:
       # Apply a gradient background
