@@ -45,13 +45,13 @@ sections:
       show_skill_percentage: true
   - block: resume-languages
     content:
-      title: Languages
-      username: admin
+    title: Languages
+    username: admin
     design:
       background:
         color: ""
-        gradient_start: "#4f46e5"
-        gradient_end: "#7c3aed"
+        gradient_start: "#ff7e5f"
+        gradient_end: "#feb47b"
         text_color_light: true
       spacing:
       padding: ["6", "6", "6", "6"]
