@@ -39,23 +39,14 @@ sections:
       is_education_first: true
   - block: resume-skills
     content:
-      title: ''
+      title: 'Technical Skils'
       username: admin
     design:
       show_skill_percentage: true
   - block: resume-languages
     content:
-    title: Languages
-    username: admin
-    design:
-      background:
-        color: ""
-        gradient_start: "#ff7e5f"
-        gradient_end: "#feb47b"
-        text_color_light: true
-      spacing:
-      padding: ["6", "6", "6", "6"]
-      columns: "1"
+      title: Languages
+      username: admin
   - block: collection
     id: papers
     content:
