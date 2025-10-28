@@ -42,6 +42,8 @@ interests:
   - Corruption
   - Investment
 
+education: []
+
 work:
   - position: Teaching Assistant
     company_name: Université Gustave Eiffel
