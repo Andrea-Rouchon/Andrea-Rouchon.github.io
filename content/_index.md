@@ -13,14 +13,15 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-      text: 'About me!'
+      text: ''
       # Show a call-to-action button under your biography? (optional)
       button:
         text: Download my CV
         url: uploads/CV_2025_06_vfrançaise.pdf
       headings:
         about: ''
-        interests: 'Research interests'
+        education: ''
+        interests: ''
     design:
       # Apply a gradient background
       css_class: hbx-bg-gradient
