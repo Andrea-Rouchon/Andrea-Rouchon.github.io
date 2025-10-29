@@ -42,32 +42,6 @@ interests:
   - Corruption
   - Investment
 
-education:
-  - area: PhD - Economics
-    institution: Université Gustave Eiffel
-    icon: ""
-    date_start: 2025-09-01
-    date_end: 2028-08-31
-    summary: ""
-  - area: MSc - Development Economics and International Project Management
-    institution: Université Gustave Eiffel
-    icon: ""
-    date_start: 2024-09-01
-    date_end: 2025-05-31
-    summary: ""
-  - area: MSc - Development Economics
-    institution: Université Paris 1 Panthéon-Sorbonne
-    icon: ""
-    date_start: 2022-09-01
-    date_end: 2024-05-31
-    summary: ""
-  - area: BSc - Economics
-    institution: Université Paris 1 Panthéon-Sorbonne
-    icon: ""
-    date_start: 2019-09-01
-    date_end: 2022-05-31
-    summary: ""
-
 work:
   - position: Teaching Assistant
     company_name: Université Gustave Eiffel
