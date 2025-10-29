@@ -100,19 +100,19 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: ''
+  - name: 'Coding skills'
     items:
-      - name: Python & PyTorch
+      - name: Python
         description: ''
-        percent: 95
+        percent: 100
         icon: code-bracket
-      - name: Machine Learning
+      - name: Stata
         description: ''
         percent: 100
         icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
+      - name: Rstudio
         description: ''
-        percent: 85
+        percent: 50
         icon: cloud
 
 languages:

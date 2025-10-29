@@ -38,8 +38,6 @@ header:
     show_language: false
     logo:
       filename: 'erudite-logo.svg'
-      height: 64
-      link: 'https://erudite.univ-paris-est.fr/'
 
 # Site footer
 footer:
