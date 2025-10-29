@@ -13,7 +13,7 @@ main:
   - name: Research
     url: research/
     weight: 30
-  - name: On the field
+  - name: Field
     url: field/
     weight: 40
   - name: Teaching
