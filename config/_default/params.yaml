@@ -31,22 +31,15 @@ header:
   navbar:
     enable: true
     fixed_to_top: true
-    transparent: true
+    transparent: false
     align: center
     show_search: true
     show_theme_chooser: true
-    show_language: true
+    show_language: false
     logo:
       filename: 'erudite-logo.svg'
-      alt: 'Érudite – Université Gustave Eiffel'
-      height: 48
-      link: '/'
-    design:
-      background:
-        gradient_start: '#6d28d9'  # warm violet
-        gradient_end: '#a855f7'
-        text_color_light: true
-
+      height: 64
+      link: 'https://erudite.univ-paris-est.fr/'
 
 # Site footer
 footer:
