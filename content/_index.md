@@ -30,4 +30,26 @@ sections:
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
         shape: circle # Options: circle (default), square, rounded
+  - block: contact
+    id: contact
+    content:
+      title: "📍 Contact"
+      subtitle: "Université Gustave Eiffel – Érudite"
+      text: "Feel free to reach out for collaboration, questions, or academic exchanges."
+      email: "andrea.rouchon2@univ-eiffel.fr"
+      address:
+        street: "5 Boulevard Descartes"
+        city: "77420 Champs-sur-Marne"
+        country: "France"
+      phone: ""
+      map:
+        provider: ""
+        embed: '<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2621.9738841915583!2d2.5985!3d48.8417!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47e60c6e58ccf9d7%3A0x23cfb3cf0dfdcf2a!2sUniversit%C3%A9%20Gustave%20Eiffel!5e0!3m2!1sen!2sfr!4v1698578492345!5m2!1sen!2sfr" width="100%" height="400" style="border:0; border-radius: 12px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>'
+    design:
+      columns: '1'
+      background:
+        gradient_start: "#6d28d9"
+        gradient_end: "#a855f7"
+        text_color_light: true
+        padding: ["3rem", "3rem", "3rem", "3rem"]
 ---
