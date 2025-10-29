@@ -113,31 +113,23 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: 'Coding languages'
+  - name: ''
     items:
       - name: Python
         description: ''
         percent: 100
         icon: code-bracket
-      - name: Stata
-        description: ''
-        percent: 100
-        icon: chart-bar
       - name: R
         description: ''
         percent: 100
-        icon: cloud
-      - name: LaTeX
-        description: ''
-        percent: 100
-        icon: cloud
-  - name: 'Editors'
+        icon: chart-bar
+  - name: ''
     items:
-      - name: Visual Studio Code
+      - name: Stata
         description: ''
         percent: 100
         icon: code-bracket
-      - name: Overleaf
+      - name: LaTeX
         description: ''
         percent: 100
         icon: chart-bar
