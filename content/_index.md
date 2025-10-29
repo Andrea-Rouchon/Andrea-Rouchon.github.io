@@ -4,6 +4,10 @@ title: ''
 date: 2022-10-24
 type: landing
 
+design:
+  # Default section spacing
+  spacing: '4rem'
+
 sections:
   - block: biography
     content:
@@ -15,7 +19,7 @@ sections:
       css_class: hbx-bg-gradient
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
-        filename: Cristiano_Ronaldo.jpg
+        filename: ''
       biography:
         # Customize the style of your biography text
         style: 'text-align: center; font-size: 0.8em;'
