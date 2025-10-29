@@ -37,12 +37,12 @@ sections:
       css_class: hbx-bg-gradient
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
-        filename: media/Cristiano_Ronaldo.jpg
+        filename: Cristiano_Ronaldo.jpg
       biography:
         # Customize the style of your biography text
         style: 'text-align: center; font-size: 0.8em;'
       # Avatar customization
       avatar:
         size: medium # Options: small (150px), medium (200px, default), large (320px), xl (400px), xxl (500px)
-        shape: rounded # Options: circle (default), square, rounded
+        shape: circle # Options: circle (default), square, rounded
 ---
