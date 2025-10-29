@@ -31,7 +31,7 @@ header:
   navbar:
     enable: true
     fixed_to_top: true
-    transparent: false
+    transparent: true
     align: center
     show_search: true
     show_theme_chooser: true
