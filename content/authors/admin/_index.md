@@ -48,7 +48,9 @@ education:
     icon: ""
     date_start: 2025-09-01
     date_end: 2028-08-31
-    summary: "Supervisors: Mélika Ben Salem and Marin Ferry."
+    summary: |
+      - Topic: Corruption and Economic Distortions: The Example of China 
+      - Supervisors: Mélika Ben Salem, Marin Ferry
   - area: MSc - Development Economics and International Project Management
     institution: Université Gustave Eiffel
     icon: ""
