@@ -30,7 +30,7 @@ marketing:
 header:
   navbar:
     enable: true
-    block: 'navbar'
+    block: ''
     fixed_to_top: false
     show_search: true
     show_theme_chooser: true

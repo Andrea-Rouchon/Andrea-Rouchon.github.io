@@ -20,7 +20,7 @@ sections:
         url: uploads/CV_2025_06_vfrançaise.pdf
       headings:
         about: 'Welcome to my personal website!'
-        education: 'Education background'
+        education: 'Education'
         interests: 'Research interests'
     design:
       # Apply a gradient background
