@@ -21,7 +21,6 @@ organizations:
     url: https://www.univ-gustave-eiffel.fr/
   - name: Érudite
     url: https://erudite.univ-paris-est.fr/
-    filename: 'erudite-logo.svg'
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.

@@ -32,6 +32,7 @@ header:
     enable: true
     block: ''
     fixed_to_top: false
+    align: left
     show_search: true
     show_theme_chooser: true
     logo:
