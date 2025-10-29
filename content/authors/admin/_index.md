@@ -28,10 +28,16 @@ profiles:
   - icon: at-symbol
     url: 'mailto:andrea.rouchon2@univ-eiffel.fr'
     label: E-mail Me
+  - icon: brands/x
+    url:
   - icon: brands/github
     url: https://github.com/AndreaRouchon
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/andrearouchon/
+  - icon: academicons/google-scholar
+    url: 
+  - icon: academicons/orcid
+    url:
 
 interests:
   - Development Economics
