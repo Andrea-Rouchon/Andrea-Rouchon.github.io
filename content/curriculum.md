@@ -32,4 +32,13 @@ sections:
     content:
       title: Languages
       username: admin
+    design:
+      background:
+        color: ""
+        gradient_start: "#fb923c" # warm orange
+        gradient_end:   "#ef4444" # warm red
+        text_color_light: true
+        spacing:
+          padding: ["6", "6", "6", "6"]
+        columns: "1"
 ---
