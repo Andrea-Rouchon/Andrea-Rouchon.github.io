@@ -45,11 +45,10 @@ interests:
 education:
   - area: PhD - Economics
     institution: Université Gustave Eiffel
-    location: Champs-sur-Marne, France
     icon: ""
     date_start: 2025-09-01
     date_end: 2028-08-31
-    summary: ""
+    summary: "Supervisors: Mélika Ben Salem and Marin Ferry."
   - area: MSc - Development Economics and International Project Management
     institution: Université Gustave Eiffel
     icon: ""
@@ -95,7 +94,18 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: 'Coding skills'
+  - name: 'Languages'
+    items:
+      - name: English
+        description: ''
+        percent: 100
+      - name: French
+        description: ''
+        percent: 100
+      - name: Spanish
+        description: ''
+        percent: 100
+  - name: 'Technical skills'
     items:
       - name: Python
         description: ''
