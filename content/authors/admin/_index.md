@@ -28,16 +28,10 @@ profiles:
   - icon: at-symbol
     url: 'mailto:andrea.rouchon2@univ-eiffel.fr'
     label: E-mail Me
-  - icon: brands/x
-    url:
   - icon: brands/github
     url: https://github.com/AndreaRouchon
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/andrearouchon/
-  - icon: academicons/google-scholar
-    url: 
-  - icon: academicons/orcid
-    url:
 
 interests:
   - Development Economics
@@ -51,6 +45,7 @@ interests:
 education:
   - area: PhD - Economics
     institution: Université Gustave Eiffel
+    location: Champs-sur-Marne, France
     icon: ""
     date_start: 2025-09-01
     date_end: 2028-08-31
