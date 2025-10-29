@@ -13,11 +13,11 @@ sections:
     content:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
+      text: "<p class='text-center'>I moved to Paris in 2019 to pursue a Bachelor’s degree in Economics at University Paris 1 Panthéon-Sorbonne. In my third year, introductory courses in development economics and econometrics were decisive. They inspired me to build my academic path at the intersection of these fields and led to my first applied research project: The Impact of Climate Change on Migration Flows. I then joined the Master’s program in Development Economics at Paris 1, where I strengthened my theoretical and econometric foundations. This program also gave me hands-on experience with impact evaluation methods through two dissertations, including Debt and Growth: Evidence from Firm-Level Data, supervised by Marin Ferry.</p>"
+      # Show a call-to-action button under your biography? (optional)
       button:
         text: Curriculum Vitae
         url: uploads/CV_2025_06_vfrançaise.pdf
-      text: "I moved to Paris in 2019 to pursue a Bachelor’s degree in Economics at University Paris 1 Panthéon-Sorbonne. In my third year, introductory courses in development economics and econometrics were decisive. They inspired me to build my academic path at the intersection of these fields and led to my first applied research project: The Impact of Climate Change on Migration Flows. I then joined the Master’s program in Development Economics at Paris 1, where I strengthened my theoretical and econometric foundations. This program also gave me hands-on experience with impact evaluation methods through two dissertations, including Debt and Growth: Evidence from Firm-Level Data, supervised by Marin Ferry."
-      # Show a call-to-action button under your biography? (optional)
       headings:
         about: "About me!"
         education: ''
