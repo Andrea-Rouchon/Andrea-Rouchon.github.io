@@ -94,7 +94,7 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: 'Technical skills'
+  - name: 'Coding languages'
     items:
       - name: Python
         description: ''
@@ -112,7 +112,7 @@ skills:
         description: ''
         percent: 100
         icon: cloud
-  - name: ''
+  - name: 'Editors'
     items:
       - name: Visual Studio COde
         description: ''
