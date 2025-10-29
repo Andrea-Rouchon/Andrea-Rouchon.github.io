@@ -51,28 +51,24 @@ interests:
 education:
   - area: PhD - Economics
     institution: Université Gustave Eiffel
-    location: Champs-sur-Marne, France
     icon: ""
     date_start: 2025-09-01
     date_end: 2028-08-31
     summary: ""
   - area: MSc - Development Economics and International Project Management
     institution: Université Gustave Eiffel
-    location: Champs-sur-Marne, France
     icon: ""
     date_start: 2024-09-01
     date_end: 2025-05-31
     summary: ""    
   - area: MSc - Development Economics
     institution: Université Paris 1 Panthéon-Sorbonne
-    location: Paris, France
     icon: ""
     date_start: 2022-09-01
     date_end: 2024-05-31
     summary: ""
   - area: BSc - Economics
     institution: Université Paris 1 Panthéon-Sorbonne
-    location: Paris, France
     icon: ""
     date_start: 2019-09-01
     date_end: 2022-05-31
@@ -82,7 +78,6 @@ work:
   - position: Teaching Assistant
     company_name: Université Gustave Eiffel
     company_url: 'https://www.univ-gustave-eiffel.fr/'
-    location: Champs-sur-Marne, France
     icon: ''
     date_start: 2025-09-01
     date_end: 2026-05-31
@@ -90,7 +85,6 @@ work:
   - position: Research Intern
     company_name: Érudite
     company_url: 'https://erudite.univ-paris-est.fr/'
-    location: Champs-sur-Marne, France
     icon: ''
     date_start: 2024-03-01
     date_end: 2025-03-01
@@ -98,7 +92,6 @@ work:
   - position: Teaching Assistant
     company_name: Université Paris 1 Panthéon-Sorbonne
     company_url: 'https://www.pantheonsorbonne.fr/'
-    location: Paris, France
     icon: ''
     date_start: 2024-01-01
     date_end: 2024-05-31
