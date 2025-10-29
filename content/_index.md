@@ -19,9 +19,8 @@ sections:
         text: Curriculum Vitae
         url: uploads/CV_2025_06_vfrançaise.pdf
       headings:
-        about: "Welcome to my personal website!"
+        about: "About me!"
         interests: "Research interests"
-        education: "Education"
     design:
       # Apply a gradient background
       css_class: hbx-bg-gradient
