@@ -35,6 +35,6 @@ sections:
         gradient_end:   "#ef4444" # warm red
         text_color_light: true
         spacing:
-          padding: ["6", "6", "6", "6"]
+          padding: ["6", "6", "6"]
         columns: "1"
 ---
