@@ -94,17 +94,6 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: 'Languages'
-    items:
-      - name: English
-        description: ''
-        percent: 100
-      - name: French
-        description: ''
-        percent: 100
-      - name: Spanish
-        description: ''
-        percent: 100
   - name: 'Technical skills'
     items:
       - name: Python
@@ -117,8 +106,22 @@ skills:
         icon: chart-bar
       - name: Rstudio
         description: ''
-        percent: 50
+        percent: 100
         icon: cloud
+      - name: LaTeX
+        description: ''
+        percent: 100
+        icon: cloud
+  - name: ''
+    items:
+      - name: Visual Studio COde
+        description: ''
+        percent: 100
+        icon: code-bracket
+      - name: Overleaf
+        description: ''
+        percent: 100
+        icon: chart-bar
 
 languages:
   - name: English

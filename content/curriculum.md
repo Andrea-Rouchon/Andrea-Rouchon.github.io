@@ -18,7 +18,7 @@ sections:
       is_education_first: true
   - block: resume-skills
     content:
-      title: Languages & Technical skills
+      title: Technical skills
       username: admin
     design:
       show_skill_percentage: true
