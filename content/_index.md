@@ -6,7 +6,7 @@ type: landing
 
 design:
   # Default section spacing
-  spacing: '6rem'
+  spacing: '4rem'
 
 sections:
   - block: resume-biography-3
@@ -20,6 +20,7 @@ sections:
         url: uploads/CV_2025_06_vfrançaise.pdf
       headings:
         about: "About me!"
+        education: ''
         interests: "Research interests"
     design:
       # Apply a gradient background
