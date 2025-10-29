@@ -56,19 +56,25 @@ education:
     icon: ""
     date_start: 2024-09-01
     date_end: 2025-05-31
-    summary: ""    
+    summary: |
+      - Track: Impact Evaluation
+      - Field Mission: "The LeadHer Initiative: Empowering Women by expanding their job opportunities", in partnership with The High Atlas Foundation
+      - Digital Methods and Data Sprint 2025, University of Amsterdam
+      - Key courses: Applied Econometrics, Impact Evaluation, Informal Sector
   - area: MSc - Development Economics
     institution: Université Paris 1 Panthéon-Sorbonne
     icon: ""
     date_start: 2022-09-01
     date_end: 2024-05-31
-    summary: ""
+    summary: |
+      - Track: Research
+      - Key courses: Econometrics and Impact Evaluation, Development Theory (Micoreconomics, Macroeconomics and Historical Perspective), Institutions, Governance and Development, Firm Performance and Development, Foreign Aid, Debt and Development
   - area: BSc - Economics
     institution: Université Paris 1 Panthéon-Sorbonne
     icon: ""
     date_start: 2019-09-01
     date_end: 2022-05-31
-    summary: ""
+    summary: |
 
 work:
   - position: Teaching Assistant
@@ -77,21 +83,21 @@ work:
     icon: ''
     date_start: 2025-09-01
     date_end: 2026-05-31
-    summary: ""
+    summary: |
   - position: Research Intern
     company_name: Érudite
     company_url: 'https://erudite.univ-paris-est.fr/'
     icon: ''
     date_start: 2024-03-01
     date_end: 2025-03-01
-    summary: ""
+    summary: |
   - position: Teaching Assistant
     company_name: Université Paris 1 Panthéon-Sorbonne
     company_url: 'https://www.pantheonsorbonne.fr/'
     icon: ''
     date_start: 2024-01-01
     date_end: 2024-05-31
-    summary: ""
+    summary: |
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -116,7 +122,7 @@ skills:
         icon: cloud
   - name: 'Editors'
     items:
-      - name: Visual Studio COde
+      - name: Visual Studio Code
         description: ''
         percent: 100
         icon: code-bracket
