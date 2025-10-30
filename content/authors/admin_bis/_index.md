@@ -22,12 +22,6 @@ organizations:
   - name: Érudite
     url: https://erudite.univ-paris-est.fr/
 
-# Avatar (photo) filename — must match the image file in this folder
-avatar:
-  filename: "marin.png"
-  shape: circle   # options: circle, square, rounded
-  size: medium    # options: small, medium, large, xl, xxl
-
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
