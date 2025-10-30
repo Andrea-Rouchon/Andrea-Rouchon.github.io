@@ -2,7 +2,7 @@
 title: "Public Debt and Firm Performance: A Love-Hate Relationship?"
 authors:
   - admin
-  - admin_bis
+  - Marin Ferry
 author_notes:
   - ""
   - ""
