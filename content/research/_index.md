@@ -6,7 +6,7 @@ type: landing
 sections:
   - block: collection
     content:
-      title: "Working Papers"
+      title: "Publications & Working Papers"
       # This pulls from your publication section:
       filters:
         folders:
