@@ -1,20 +1,14 @@
 ---
-title: 'Research'
+title: 'Public Debt and Firm Performance: A Love-Hate Relationship?'
 authors:
 - admin
 - Marin Ferry
-author_notes:
-- "Equal contribution"
-- "Equal contribution"
 date: "2025-11-01"
-
-# Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["article-journal"]
+publication_types: ["working-paper"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Journal of Source Themes, 1*(1)"
@@ -32,15 +26,15 @@ hugoblox:
 
 links:
   - type: pdf
-    url:
-  - type: code
-    url: 
-  - type: dataset
-    url: ""
+    url: "uploads/Master_Thesis_2025_05_vf.pdf"
+  - type: slides
+    url: "static/uploads/Master_Thesis_2025_05_vf.pdf"
   - type: poster
     url: ""
-  - type: slides
-    url: 
+  - type: code
+    url: ""
+  - type: dataset
+    url: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
