@@ -38,6 +38,6 @@ links:
 
 image:
   filename: "featured.png"
-  focal_point: "center"
+  focal_point: "top"
   preview_only: false
 ---
