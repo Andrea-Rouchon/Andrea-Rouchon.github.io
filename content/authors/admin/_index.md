@@ -13,7 +13,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Candidate in Economics
+role: '<span style="color: var(--color-primary);">PhD Candidate in Economics</span>'
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
