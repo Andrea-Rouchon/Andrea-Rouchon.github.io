@@ -1,47 +1,69 @@
 ---
-title: 'Public Debt and Firm Performance: A Love-Hate Relationship?'
-
-# Authors
-# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
-# and it will be replaced with their full name and linked to their profile.
+title: "Research"
 authors:
-  - admin
-  - Marin Ferry
-
-# Author notes (optional)
+- admin
+- Robert Ford
 author_notes:
-  - ''
-  - ''
-
-date: '2025-11-01'
+- "Equal contribution"
+- "Equal contribution"
+date: "2015-09-01T00:00:00Z"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: ''
+publishDate: "2017-01-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['working-paper']
+publication_types: ["article-journal"]
 
-abstract: To show how public debt impacts performance for a sample of 79,746 formal private firms located across 72 developing economies, we impose a heteroscedastic covariance restriction and construct internal instruments following Lewbel (2012). In contrast to conventional wisdom, we find that, on average, a 10-percent increase in the debt-to-GDP ratio raises the firm average annual growth rate of sales by around 0.23 percentage points. This effect becomes even larger—reaching around 0.45–0.46 percentage points and statistically significant—when internal instruments are combined with a conventional external instrument based on valuation effects. By contrast, when the external instrument is used alone, the coefficient remains positive but loses statistical significance. We then explore the heterogeneity of this effect in a two-step process. First, we test whether public debt benefits more (or less) firms facing particular constraints—such as finance, infrastructure deficiencies or institutional barriers. To assess the relative importance of these constraints, we combine opinion-based survey questions with hard-data, assuming that objective measures can help mitigate potential biases inherent in subjective perceptions. Second, we explore how firms are impacted by debt based on the structural characteristics of their particular industry. To this end, we construct exogenous sector-specific input intensities using the U.S. input-output matrix (2000–2014).
+# Publication name and optional abbreviated publication name.
+publication: "*Journal of Source Themes, 1*(1)"
+publication_short: ""
 
-# Display this page in the Featured widget?
+abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+
+# Summary. An optional shortened abstract.
+summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
+tags:
+- Source Themes
 featured: false
 
-# Custom links
+hugoblox:
+  ids:
+    arxiv: 1512.04133v1
+
 links:
   - type: pdf
-    url: ""
+    url: http://arxiv.org/pdf/1512.04133v1
   - type: code
     url: https://github.com/HugoBlox/hugo-blox-builder
   - type: dataset
-    url: https://github.com/HugoBlox/hugo-blox-builder
+    url: ""
+  - type: poster
+    url: ""
+  - type: project
+    url: ""
   - type: slides
     url: https://www.slideshare.net/
   - type: source
-    url: https://github.com/HugoBlox/hugo-blox-builder
+    url: ""
   - type: video
-    url: https://youtube.com
+    url: ""
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/jdD8gXaTZsc)'
+  focal_point: ""
+  preview_only: false
+
+# Associated Projects (optional).
+#   Associate this publication with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `internal-project` references `content/project/internal-project/index.md`.
+#   Otherwise, set `projects: []`.
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
@@ -52,9 +74,9 @@ slides: ""
 ---
 
 > [!NOTE]
-> Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+> Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 
 > [!NOTE]
-> Create your slides in Markdown - click the _Slides_ button to check out the example.
+> Create your slides in Markdown - click the *Slides* button to check out the example.
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
