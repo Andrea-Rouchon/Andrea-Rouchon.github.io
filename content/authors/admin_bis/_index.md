@@ -7,7 +7,7 @@ first_name: Marin
 last_name: Ferry
 
 # Is this the primary user of the site?
-superuser: yes
+superuser: false
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
