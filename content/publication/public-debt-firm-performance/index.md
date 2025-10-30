@@ -26,7 +26,7 @@ hugoblox:
 
 links:
   - type: pdf
-    url: "http://arxiv.org/pdf/1512.04133v1"
+    url: "uploads/CV_2025_06_vfrançaise.pdf"
   - type: slides
     url: "uploads/Beamer_Master_Thesis_Defense_2025_05_vf.pdf"
   - type: poster
@@ -34,5 +34,10 @@ links:
   - type: dataset
     url: ""
   - type: code
-    url: "https://github.com/HugoBlox/hugo-blox-builder"
+    url: ""
+
+image:
+  filename: "featured.png"
+  focal_point: "center"
+  preview_only: false
 ---
