@@ -1,5 +1,5 @@
 ---
-title: 'Public Debt and Firm Performance: A Love-Hate Relationship?'
+title: 'Research'
 authors:
 - admin
 - Marin Ferry
