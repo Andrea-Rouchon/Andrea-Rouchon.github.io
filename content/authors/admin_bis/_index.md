@@ -24,7 +24,7 @@ organizations:
 
 # Avatar (photo) filename — must match the image file in this folder
 avatar:
-  filename: "authors/admin_bis/marin-ferry.png"
+  filename: "marin.png"
   shape: circle   # options: circle, square, rounded
   size: medium    # options: small, medium, large, xl, xxl
 
