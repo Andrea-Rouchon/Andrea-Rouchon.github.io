@@ -26,7 +26,7 @@ hugoblox:
 
 links:
   - type: pdf
-    url: "uploads/CV_2025_06_vfrançaise.pdf"
+    url: "uploads/Master_Thesis_2025_05_vf.pdf"
   - type: slides
     url: "uploads/Beamer_Master_Thesis_Defense_2025_05_vf.pdf"
   - type: poster
@@ -40,4 +40,6 @@ image:
   filename: "featured.png"
   focal_point: "top"
   preview_only: true
+
+share: false
 ---
