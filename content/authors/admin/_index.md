@@ -4,7 +4,7 @@ title: Andrea Rouchon
 
 # Full name (for SEO)
 first_name: Andrea
-last_name: Rouchon
+last_name: Roucho
 
 # Is this the primary user of the site?
 superuser: true
